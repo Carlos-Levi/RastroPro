@@ -56,7 +56,7 @@ export const LogoTicker = () => {
               className="logo-ticker-image"
             />
 
-            {/* Second set of logos for animation */}
+            {/* Segunda parte para a seção das logos */}
             <Image
               src={acmeLogo}
               alt="Acme Logo"
