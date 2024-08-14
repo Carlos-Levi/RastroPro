@@ -28,19 +28,19 @@ export const Hero = () => {
       <div className="container">
         <div className="md:flex items-center">
           <div className="md:w-[478px]">
-            <div className="tag">Version 2.0 is here</div>
+            <div className="tag">Experimete 30 dias grátis</div>
             <h1 className="text-5xl md:text-7xl font-bold tracking-tighter bg-gradient-to-b from-black to-[#001E80] text-transparent bg-clip-text mt-6">
-              Pathway to productivity
+              Rumo ao produtividade
             </h1>
             <p className="text-xl text-[#010D3E] tracking-tight mt-6">
-              Celebrate the joy of accomplishment with an app designed to track
-              your progress, motivate your efforts, and celebrate your
-              successes.
+              Celebre a satisfação de alcançar objetivos com um app que acompanha seu progresso,
+              motiva seus esforços e celebrar seus sucessos.
+            
             </p>
             <div className="flex gap-1 items-center mt-[30px]">
-              <button className="btn btn-primary">Get for free</button>
+              <button className="btn btn-primary">Assine grátis</button>
               <button className="btn btn-text gap-1">
-                <span>Learn more</span>
+                <span>Mais Informações</span>
                 <ArrowIcon className="h-5 w-5" />
               </button>
             </div>
