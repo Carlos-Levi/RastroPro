@@ -1,6 +1,9 @@
 # RastroPro - SaaS Landing Page ☁️
 
-RastroPro é uma landing page de SaaS desenvolvida para fornecer uma experiência visual impactante e funcionalidade otimizada. Este projeto foi construído com tecnologias modernas como **React**, **Next.js**, **TailwindCSS** e **Framer Motion**, garantindo uma performance de alto nível e animações cativantes. 
+RastroPro é uma landing page de SaaS desenvolvida para fornecer uma experiência visual impactante e funcionalidade otimizada. Este projeto foi construído com tecnologias modernas como **React**, **Next.js**, **TailwindCSS** e **Framer Motion**.
+
+> Algmas atualizações ainda serão implementadas
+![Banner](https://github.com/Carlos-Levi/RastroPro/blob/main/public/RastroPro.png?raw=true)
 
 ### Funcionalidades
 
